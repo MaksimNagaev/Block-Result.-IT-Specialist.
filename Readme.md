@@ -16,3 +16,4 @@
 
 ## Блок схема:
 
+![Блок-Схема по итоговой работе](https://github.com/MaksimNagaev/Block-Result.-IT-Specialist./blob/main/Work_diagrams.drawio.png)
